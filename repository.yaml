@@ -1,4 +1,12 @@
-# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: 3CX SBC
-url: 'https://github.com/PinkQween/docker-3cx-sbc'
-maintainer: Hanna Skairipa <hanna@hannaskairipa.com>
+name: Docker Compose Add-on
+slug: docker-compose-addon
+description: "Run Docker Compose within Home Assistant OS"
+version: "1.0.0"
+arch:
+  - amd64
+  - armv7
+  - aarch64
+maintainer: "Your Name <you@example.com>"
+homepage: "https://github.com/your-username/repository-name"
+source: "https://github.com/your-username/repository-name"
+documentation: "https://github.com/your-username/repository-name/blob/main/README.md"
