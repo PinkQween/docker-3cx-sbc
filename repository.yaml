@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: 3CX SBC
+url: 'https://github.com/PinkQween/docker-3cx-sbc'
+maintainer: Hanna Skairipa <hanna@hannaskairipa.com>
